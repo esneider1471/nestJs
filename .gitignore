@@ -23,6 +23,7 @@ ceiba-worktree.js
 .github/hooks/agent-activity.json
 .github/log-agent-activity.ps1
 .github/log-agent-activity.sh
+.github/logs/
 
 # Node / NestJS
 node_modules/
